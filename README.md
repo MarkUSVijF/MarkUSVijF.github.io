@@ -4,7 +4,8 @@
 <body>
 # MarkUSVijF.github.io
 GitHub Page
-<iframe src="77.117.62.33:42069" height="200" width="300" title="Iframe Example"></iframe>
+<iframe src="demo-page.html" name="myFrame"></iframe>
+<p><a href="https://www.tutorialrepublic.com" target="myFrame">Open TutorialRepublic.com</a></p>
 
 </body>
 </html>
